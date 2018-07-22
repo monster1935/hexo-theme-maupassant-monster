@@ -40,13 +40,13 @@ donate:
 menu:
   - page: home
     directory: .
-    icon: fa-home
+    icon:
   - page: archive
     directory: archives/
-    icon: fa-archive
+    icon:
   - page: about
     directory: about/
-    icon: fa-user
+    icon:
   #- page: rss
   #  directory: atom.xml
   #  icon: fa-rss
