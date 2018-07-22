@@ -367,7 +367,7 @@ div {
         text-align: center;
         &:hover {
             background: #F8F8F8;
-            border-bottom-color: #D26911;
+            border-bottom-color: #444;
         }
         &.prev {
             float: left;
@@ -388,7 +388,7 @@ div {
     }
     .current {
         background: #F8F8F8;
-        border-bottom-color: #D26911;
+        border-bottom-color: #444;
     }
     .space {
         border: none;
