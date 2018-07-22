@@ -470,6 +470,7 @@ div {
     .content_container {
         padding-right: 0;
     }
+    /* 文章的样式更改 */
     .post {
         .post-title {
             font-size: 20px;
@@ -478,6 +479,10 @@ div {
             font-size: 14px;
         }
     }
+    /* 网站标题样式的更改 */
+   #header .site-name #logo {
+       font-size: 30px;
+   }
 }
 
 blockquote {
